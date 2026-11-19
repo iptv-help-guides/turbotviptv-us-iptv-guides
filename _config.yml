@@ -1,0 +1,9 @@
+title: "TurboTV IPTV Guides"
+description: "Free IPTV troubleshooting guides and tools by TurboTV IPTV (turbotviptv.us)."
+lang: en
+url: "https://iptv-help-guides.github.io"
+baseurl: "/turbotviptv-us-iptv-guides"
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap

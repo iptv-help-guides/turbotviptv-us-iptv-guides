@@ -1,2 +1,5 @@
-# turbotviptv-us-iptv-guides
-Free IPTV troubleshooting guides and tools by TurboTV IPTV (turbotviptv.us).
+# TurboTV IPTV – IPTV guides
+
+Free IPTV troubleshooting guides and Colab tools by [TurboTV IPTV](https://turbotviptv.us/).
+
+Read them online: https://iptv-help-guides.github.io/turbotviptv-us-iptv-guides/
